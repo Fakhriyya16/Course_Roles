@@ -1,0 +1,43 @@
+﻿@model CourseDetailVM
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<div class="container bootdey">
+    <div class="col-md-12">
+        <section class="panel">
+            <div class="panel-body">
+                <div class="col-md-6 mt-3">
+                    <a asp-action="Index">Back</a>
+                    <div class="pro-img-details mt-3">
+                        <img src="~/img/@Model.MainImage" style="width:200px;height:200px;">
+                    </div>
+                    <div class="pro-img-list mt-5">
+                        @foreach(var item in Model.Images)
+                        {
+                            <a href="#">
+                                <img src="~/img/@item" style="width:100px;height:100px;">
+                            </a>
+                        }
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <h4 class="pro-d-title">
+                        <a href="#" class="">
+                            @Model.Name
+                        </a>
+                    </h4>
+                    <p>
+                        Teacher: @Model.Teacher
+                    </p>
+                    <div class="product_meta">
+                        <span class="posted_in"> <strong>Category:</strong> <a rel="tag" href="#">@Model.CategoryName</a></span>
+                        <span class="tagged_as"><strong>Created Date:</strong> <a rel="tag" href="#">mens</a>, <a rel="tag" href="#">@Model.CreatedDate</a>.</span>
+                    </div>
+                    <div class="m-bot15"> <strong>Price : </strong> <span class="amount-old">$@Model.Price</span>  <span class="pro-price"> $@Model.DiscountedPrice</span></div>
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
+

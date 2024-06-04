@@ -1,0 +1,36 @@
+﻿@model CategoryDetailVM
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<section class="jumbotron text-center">
+    <div class="container">
+        <h1 class="jumbotron-heading">@Model.Name</h1>
+        <p class="lead text-muted">@Model.Description</p>
+        <p>@Model.CreatedDate</p>
+        <img src="~/img/@Model.Image" style="width:200px;height:200px;"/>
+    </div>
+</section>
+
+<div class="album py-5 bg-light">
+    <div class="container">
+        <div class="row">
+            @foreach(var item in Model.Courses)
+            {
+                <div class="col-md-4">
+                    <div class="card mb-4 box-shadow">
+                        <img class="card-img-top" src="~/img/@item.Images.FirstOrDefault(m=>m.isMain).Name">
+                        <div class="card-body">
+                            <p class="card-text">@item.Name</p>
+                            <p class="card-text">Teacher: @item.Teacher</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <small class="text-muted">@item.Price</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+

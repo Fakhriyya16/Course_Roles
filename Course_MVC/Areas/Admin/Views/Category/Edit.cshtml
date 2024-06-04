@@ -1,0 +1,49 @@
+﻿@model CategoryEditVM
+@{
+    ViewData["Title"] = "Edit";
+}
+
+
+<section id="edit-category">
+    <div class="container mt-5">
+        <div>
+            <h2>Category Images</h2>
+            <div class="d-flex">
+                @foreach (var item in Model.AvailableImages)
+                {
+                    <div class="photo-ctgr mx-3" data-id="@item.Id">
+                        <img src="~/img/@item.Name" style="width:100px;height:100px;" />
+                        <div class="picture d-flex flex-column mt-2" style="width:100px;">
+                            <button data-id="@item.Id" class="btn btn-danger btn-sm delete" @(item.isMain ? "disabled" : "")>Delete</button>
+                            <button data-id="@item.Id" class="btn btn-primary btn-sm make-main" @(item.isMain ? "disabled" : "")>Make Main</button>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+        <form class="forms-sample" method="post" asp-action="Edit" enctype="multipart/form-data">
+            <div class="form-group">
+                <label class="float-label">Name</label>
+                <input asp-for="Name" class="form-control">
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="float-label">Description</label>
+                <input asp-for="Description" class="form-control">
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="float-label">Image</label>
+                <input asp-for="NewImages" accept="image/*" class="form-control">
+                <span asp-validation-for="NewImages" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-primary mr-2">Submit</button>
+            <a class="btn btn-light" asp-action="Index">Cancel</a>
+        </form>
+    </div>
+</section>
+
+@section js {
+    <script src="~/Admin/assets/js/edit.js"></script>
+}
+

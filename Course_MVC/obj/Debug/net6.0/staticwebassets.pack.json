@@ -1,0 +1,1361 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Course_MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Course_MVC.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\css\\animate.css\\css\\animate.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\animate.css\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\css\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\css\\chartist\\chartist.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\chartist\\chartist.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\css\\ionicons.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\ionicons.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\css\\jquery.mCustomScrollbar.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\jquery.mCustomScrollbar.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\css\\morris.js\\css\\morris.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\morris.js\\css\\morris.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\animated.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\animated.less"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\screen-reader.less"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\font-awesome.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\font-awesome.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\font-awesome.css.map"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\icofont\\css\\icofont.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\icofont\\css\\icofont.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\icofont\\fonts\\icofont.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\icofont\\fonts\\icofont.eot"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\icofont\\fonts\\icofont.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\icofont\\fonts\\icofont.svg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\icofont\\fonts\\icofont.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\icofont\\fonts\\icofont.ttf"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\icofont\\fonts\\icofont.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\icofont\\fonts\\icofont.woff"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\icon\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\Thumbs.db",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\Thumbs.db"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\auth\\Logo-small-bottom.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\Logo-small-bottom.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\auth\\Thumbs.db",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\Thumbs.db"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\auth\\logo-dark.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\logo-dark.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\auth\\logo.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\logo.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avatar-1.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avatar-2.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avatar-3.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avatar-4.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avatar-5.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\avatar-blank.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avatar-blank.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\blog\\blog-130.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\blog-130.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\blog\\blog-r-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\blog-r-1.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\blog\\blog-r-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\blog-r-2.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\blog\\blog-r-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\blog-r-3.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\blog\\blog-single-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\blog-single-1.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\blog\\blog-single.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\blog-single.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\blog\\blog-small-bg-1.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\blog-small-bg-1.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\blog\\st_gallery1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\st_gallery1.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\blog\\st_gallery2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\st_gallery2.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\blog\\st_gallery3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\st_gallery3.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\breadcrumb-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\breadcrumb-bg.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\browser\\chrome.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\browser\\chrome.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\browser\\firefox.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\browser\\firefox.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\browser\\ie.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\browser\\ie.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\browser\\opera.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\browser\\opera.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\browser\\safari.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\browser\\safari.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\details_close.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\details_close.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\details_open.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\details_open.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\faq_man.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faq_man.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\logo-blue.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logo-blue.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\logo-compact.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logo-compact.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\mCSB_buttons.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\mCSB_buttons.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\mega-menu\\01.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\mega-menu\\01.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\mega-menu\\02.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\mega-menu\\02.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\mega-menu\\03.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\mega-menu\\03.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\select-arrow.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\select-arrow.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\tooltip\\Euclid.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\tooltip\\Euclid.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\tooltip\\shape1.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\tooltip\\shape1.svg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\tooltip\\tooltip1.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\tooltip\\tooltip1.svg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\user-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user-bg.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\widget\\AUSTRALIA.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\AUSTRALIA.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\widget\\BRAZIL.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\BRAZIL.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\widget\\DIGITALPEN.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\DIGITALPEN.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\widget\\GERMANY.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\GERMANY.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\widget\\IPAD.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\IPAD.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\widget\\PHONE1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\PHONE1.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\widget\\PHONE2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\PHONE2.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\widget\\PHONE3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\PHONE3.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\widget\\PHONE4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\PHONE4.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\widget\\TABLET.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\TABLET.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\widget\\UK.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\UK.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\widget\\USA.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\USA.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\widget\\prod1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\prod1.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\widget\\prod2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\prod2.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\widget\\prod3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\prod3.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\widget\\prod4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\prod4.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\widget\\wather2bottom.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\wather2bottom.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\widget\\wather2m.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\wather2m.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\widget\\wather2star1.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\wather2star1.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\widget\\wather2star2.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\wather2star2.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\widget\\watherbottom.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\watherbottom.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\widget\\wathernature.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\wathernature.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\widget\\watherstar1.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\watherstar1.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\images\\widget\\watherstar2.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\watherstar2.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\js\\SmoothScroll.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\SmoothScroll.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\js\\archive.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\archive.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\js\\bootstrap-growl.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\bootstrap-growl.min.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\js\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\js\\chart.js\\Chart.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart.js\\Chart.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\js\\common-pages.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\common-pages.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\js\\edit.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\edit.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\js\\jquery-slimscroll\\jquery.slimscroll.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery-slimscroll\\jquery.slimscroll.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\js\\jquery-ui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery-ui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\js\\jquery.mousewheel.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery.mousewheel.min.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\js\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\js\\modernizr\\css-scrollbars.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\modernizr\\css-scrollbars.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\js\\modernizr\\modernizr.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\modernizr\\modernizr.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\js\\morris-custom-chart.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\morris-custom-chart.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\js\\morris.js\\morris.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\morris.js\\morris.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\js\\pcoded.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\pcoded.min.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\js\\popper.js\\popper.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\popper.js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\js\\raphael\\raphael.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\raphael\\raphael.min.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\js\\script.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\script.min.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\js\\vertical-layout.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\vertical-layout.min.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\accordion\\accordion.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\accordion\\accordion.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\accordion\\accordion.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\accordion\\accordion.min.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\css\\amchart.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\css\\amchart.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\css\\export.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\css\\export.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\amcharts.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\js\\amcharts.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\custom-amchart.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\js\\custom-amchart.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\export.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\js\\export.min.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBig.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBig.svg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBigH.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBigH.svg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\light.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\js\\light.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\serial.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\js\\serial.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\dashboard\\custom-dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\custom-dashboard.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\google-maps\\gmaps.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\google-maps\\gmaps.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\google-maps\\google-maps.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\google-maps\\google-maps.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\icon-modal.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\icon-modal.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\notification\\notification.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\notification\\notification.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\notification\\notification.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\notification\\notification.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\todo\\todo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\todo\\todo.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\waves\\css\\waves.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\waves\\css\\waves.min.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\waves\\js\\waves.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\waves\\js\\waves.min.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\amcharts.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\amcharts.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\amcharts.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\amcharts.min.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\export.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\export.min.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\gauge.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\gauge.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\gauge.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\gauge.min.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\light.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\light.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\light.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\light.min.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\pie.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\pie.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\pie.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\pie.min.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\serial.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\serial.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\serial.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\serial.min.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\admin\\assets\\pages\\widget\\excanvas.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\excanvas.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\css\\blog.css",
+      "PackagePath": "staticwebassets\\assets\\css\\blog.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\css\\blog.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\blog.css.map"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\css\\blog.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\blog.scss"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\css\\contact.css",
+      "PackagePath": "staticwebassets\\assets\\css\\contact.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\css\\contact.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\contact.css.map"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\css\\contact.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\contact.scss"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\css\\courses.css",
+      "PackagePath": "staticwebassets\\assets\\css\\courses.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\css\\courses.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\courses.css.map"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\css\\courses.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\courses.scss"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\css\\home.css",
+      "PackagePath": "staticwebassets\\assets\\css\\home.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\css\\home.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\home.css.map"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\css\\home.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\home.scss"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\banner-bg-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-bg-1.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\banner-bg-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-bg-2.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\banner-img-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-img-1.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\banner-img-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-img-2.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\big-circle.png",
+      "PackagePath": "staticwebassets\\assets\\images\\big-circle.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-4.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-5.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-6.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\blog-sm-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-sm-1.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\blog-sm-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-sm-2.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\blog-sm-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-sm-3.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\bluecircle.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bluecircle.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\bluesprinkles.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bluesprinkles.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\card-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\card-1.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\cart.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\cart.svg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\circle-blueish.png",
+      "PackagePath": "staticwebassets\\assets\\images\\circle-blueish.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\col4-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\col4-img.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\col4-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\col4-img2.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\compass.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\compass.svg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\contact-shape-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-shape-4.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\contact-shape-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-shape-5.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\course-1long.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-1long.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\course-2 long.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-2 long.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\course-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-2.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\course-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-3.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\course-3long.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-3long.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\course-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-4.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\course-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-5.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\course-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-6.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\course-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-7.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\course-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-8.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\course-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-9.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\cta-shape.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cta-shape.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\discord.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\discord.svg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\dot-menu.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\dot-menu.svg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\dots-9.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\dots-9.svg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\electric-guitar.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\electric-guitar.svg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\events-shape-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\events-shape-bg.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\graph.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\graph.svg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\green-dots.png",
+      "PackagePath": "staticwebassets\\assets\\images\\green-dots.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\hero-1-circle-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-1-circle-2.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\home.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\home.svg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\house.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\house.svg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\i1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\i1.jpeg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\i2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\i2.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\i3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\i3.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\i4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\i4.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\i5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\i5.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\i6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\i6.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\i7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\i7.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\i8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\i8.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\i9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\i9.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\last image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\last image.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\logo-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-2.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\page-title.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\page-title.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\paint.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\paint.svg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\pie-chart.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\pie-chart.svg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\pink-circle.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pink-circle.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\pinkdots.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pinkdots.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\sprinkles.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sprinkles.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\tablet.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\tablet.svg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\teacher-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher-1.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\teacher-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher-2.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\teacher-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher-3.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\teacher-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher-4.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\teacher-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher-5.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\teacher-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher-6.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\teacher-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher-7.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\teacher-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher-8.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\teacher-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher-9.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\images\\yellow-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\yellow-bg.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\js\\blog.js",
+      "PackagePath": "staticwebassets\\assets\\js\\blog.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\js\\contact.js",
+      "PackagePath": "staticwebassets\\assets\\js\\contact.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\js\\courses.js",
+      "PackagePath": "staticwebassets\\assets\\js\\courses.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\assets\\js\\home.js",
+      "PackagePath": "staticwebassets\\assets\\js\\home.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\img\\0f522db7-be9c-41ba-bec2-c641ca597628i1.jpeg",
+      "PackagePath": "staticwebassets\\img\\0f522db7-be9c-41ba-bec2-c641ca597628i1.jpeg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\img\\181c4fb5-b677-4ab3-85b2-108d10baf76fbanner-bg-1.jpg",
+      "PackagePath": "staticwebassets\\img\\181c4fb5-b677-4ab3-85b2-108d10baf76fbanner-bg-1.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\img\\273137da-243d-4832-81a0-2681c2a0cd1eblog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\273137da-243d-4832-81a0-2681c2a0cd1eblog-3.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\img\\3350c264-4507-4637-9e32-457d82db43fablog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\3350c264-4507-4637-9e32-457d82db43fablog-4.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\img\\75918964-b88c-418a-b5e5-3aa588ddcf8cblog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\75918964-b88c-418a-b5e5-3aa588ddcf8cblog-1.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\img\\7fcbce46-057a-48f8-81b8-65c5df53e4dbi2.jpg",
+      "PackagePath": "staticwebassets\\img\\7fcbce46-057a-48f8-81b8-65c5df53e4dbi2.jpg"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\img\\b11573ec-061c-422a-a060-5ce0d265db1ebanner-img-1.png",
+      "PackagePath": "staticwebassets\\img\\b11573ec-061c-422a-a060-5ce0d265db1ebanner-img-1.png"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\VS\\Course_MVC\\Course_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Course_MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Course_MVC.props",
+      "PackagePath": "build\\Course_MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Course_MVC.props",
+      "PackagePath": "buildMultiTargeting\\Course_MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Course_MVC.props",
+      "PackagePath": "buildTransitive\\Course_MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

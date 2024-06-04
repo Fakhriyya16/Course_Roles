@@ -1,0 +1,306 @@
+﻿@model HomeVM
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+    <main>
+        <section id="intro">
+            <div class="intro-background">
+                <img src="~/assets/images/hero-1-circle-2.png" alt="">
+                <img src="~/assets/images/big-circle.png" alt="">
+                <img src="~/assets/images/circle-blueish.png" class="bluecircle" alt="">
+                <img src="~/assets/images/green-dots.png" alt="">
+                <img src="~/assets/images/pink-circle.png" alt="">
+                <img src="~/assets/images/sprinkles.png" alt="">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12 col-lg-6">
+                            <span>Access 2700+</span>
+                            <h1>Online Tutorial From Top Instructor.</h1>
+                            <img src="~/assets/images/yellow-bg.png" class="yellow-line">
+                            <p>Meet university,and cultural institutions, who'll share their experience.</p>
+                            <button type="button" class="btn btn-primary">View all course</button>
+                        </div>
+                        <div class="col-12 col-lg-4">
+                            <img src="~/assets/images/col4-img.jpg" alt="">
+                        </div>
+                        <div class="col-2">
+                            <img src="~/assets/images/col4-img2.jpg" alt="">
+                            <div class="jumping-text">
+                                <p>Tomorrow is our</p>
+                                <h4>"When I Grow Up" Spirit Day!</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="explore">
+            <div class="container">
+                <div class="explore-headings">
+                    <div class="explore-headings-left ">
+                        <h2>Explore</h2>
+                        <h2>Our Popular Courses</h2>
+                        <img src="~/assets/images/yellow-bg.png" alt="">
+                    </div>
+                    <div class="explore-headings-right">
+                        <p>View all Categories</p>
+                        <i class=" fa-solid fa-arrow-right disappear"></i>
+                        <i class=" fa-solid fa-arrow-right visible"></i>
+                    </div>
+                </div>
+                <div class="explore-options">
+                    <div class="row">
+                        <div class="col-12 col-lg-4">
+                            @foreach (var item in Model.Categories)
+                        {
+                            <div class="offer-card">
+                                <div class="offer-icon">
+                                    <img src="~/img/@item.Image" alt="">
+                                </div>
+                                <div class="offer-text">
+                                    <h4>@item.Name</h4>
+                                    <p>@item.Description</p>
+                                </div>
+                            </div>
+                        }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="under-explore">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-lg-6">
+                        <div class="recommendation-card">
+                            <div class="recommendation-card-left">
+                                <span>Free</span>
+                                <h3>Germany Foundation Document</h3>
+                                <button type="button" class="btn btn-primary">View Courses</button>
+                            </div>
+                            <div class="recommendation-card-right">
+                                <img src="~/assets/images/banner-img-1.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-6">
+                        <div class="recommendation-card second">
+                            <div class="recommendation-card-left">
+                                <span class="new">New</span>
+                                <h3>Online Courses From Eduka University</h3>
+                                <button type="button" class="btn btn-primary">Find Out More</button>
+                            </div>
+                            <div class="recommendation-card-right">
+                                <img src="~/assets/images/banner-img-2.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="find-courses">
+            <div class="container">
+                <div class="headings">
+                    <h2>Find The Right
+                        <br>
+                        Online Course For You
+                    </h2>
+                    <img src="~/assets/images/yellow-bg.png" alt="">
+                    <p>You don't have to struggle alone, you've got our assistance and help.</p>
+                </div>
+                <div class="tab-headings">
+                    <ul class="tab-list">
+                        <li class="first all">See All</li>
+                        <li class="popular">Popularity</li>
+                        <li class="trend">Trending</li>
+                        <li class="featured">Featured</li>
+                        <li class="art">Art & Design</li>
+                    </ul>
+                </div>
+                <div class="row mt-4">
+                    @foreach (var item in Model.Courses)
+                {
+                    <div class="col-12 col-lg-4 card">
+                        <div class="course-card card1">
+                            <div class="card-upper">
+                                <img src="~/img/@item.Image" alt="">
+                                <span>@item.CategoryName</span>
+                            </div>
+                            <div class="card-middle">
+                                <div class="rating">
+                                    <div class="rating-top">
+                                        <div class="rating-left">
+                                            <i class="fa-solid fa-book"></i>
+                                            <span> 43 Lessons</span>
+                                        </div>
+                                        <div class="rating-right">
+                                            <i class="fa-solid fa-star" style="color: #ffc21a;"></i>
+                                            <span>4.5 (44)</span>
+                                        </div>
+                                    </div>
+                                    <div class="card-name">
+                                        <h4>@item.Name</h4>
+                                        <img src="~/assets/images/teacher-1.jpg" alt="">
+                                        <span>@item.Teacher</span>
+                                        <hr>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card-bottom">
+                                <div class="prices">
+                                    <span class="first">$@item.DiscountedPrice</span>
+                                    <span class="second">$@item.Price</span>
+                                </div>
+                                <div class="details">
+                                    <span>Know Details</span>
+                                    <i class=" fa-solid fa-arrow-right"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+                </div>
+            </div>
+        </section>
+        <section id="current-events">
+            <div class="container">
+                <div class="heading">
+                    <h2>Current Events</h2>
+                    <p>We found 13 events available for you.</p>
+                    <img src="~/assets/images/yellow-bg.png" alt="">
+                </div>
+                <div class="row">
+                    <div class="col-12 col-lg-10">
+                        <div class="event">
+                            <div class="event-left">
+                                <div class="dates">
+                                    <span>Jun 14, 2022</span>
+                                    <span>12:00 am - 2:30 pm</span>
+                                    <span>New York</span>
+                                </div>
+                                <div class="event-name">
+                                    <h3>Digital transformation conference</h3>
+                                </div>
+                            </div>
+                            <div class="event-right">
+                                <h6> View More</h6>
+                                <i class="fa-solid fa-arrow-right"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-10 mt-3">
+                        <div class="event">
+                            <div class="event-left">
+                                <div class="dates">
+                                    <span>April 10, 2022</span>
+                                    <span>9:00 am - 5:00 pm</span>
+                                    <span>Mindahan</span>
+                                </div>
+                                <div class="event-name">
+                                    <h3>World education day conference</h3>
+                                </div>
+                            </div>
+                            <div class="event-right">
+                                <h6> View More</h6>
+                                <i class="fa-solid fa-arrow-right"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-10 mt-3">
+                        <div class="event">
+                            <div class="event-left">
+                                <div class="dates">
+                                    <span>July 16, 2022</span>
+                                    <span>10:30 am - 1:30 pm</span>
+                                    <span>Weedpatch</span>
+                                </div>
+                                <div class="event-name">
+                                    <h3>Foundations of global health</h3>
+                                </div>
+                            </div>
+                            <div class="event-right">
+                                <h6> View More</h6>
+                                <i class="fa-solid fa-arrow-right"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-10 mt-3">
+                        <div class="event">
+                            <div class="event-left">
+                                <div class="dates">
+                                    <span>March 24, 2022</span>
+                                    <span>10:30 am - 12:00 pm</span>
+                                    <span>Lnland</span>
+                                </div>
+                                <div class="event-name">
+                                    <h3>Digital transformation conference</h3>
+                                </div>
+                            </div>
+                            <div class="event-right">
+                                <h6> View More</h6>
+                                <i class="fa-solid fa-arrow-right"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="all-inclusive">
+            <div class="container">
+                <div class="heading">
+                    <h2>Simple</h2>
+                    <h2>All Inclusive Pricing</h2>
+                    <p>No contracts. No surprise fees.</p>
+                    <img src="~/assets/images/yellow-bg.png" alt="">
+                    <div class="buttons">
+                        <button type="button" class="btn btn-light monthly">Monthly Plan</button>
+                        <button type="button" class="btn btn-primary annual">Annual Plan</button>
+                    </div>
+                </div>
+                <div class="pricing-cards">
+                    <div class="row">
+                        <div class="col-12 col-lg-5">
+                            <div class="pricing-card-top">
+                                <h4>Gold</h4>
+                                <p>Perfect for small marketing teams</p>
+                                <h2>$59
+                                    <span>.99 / annually</span>
+                                </h2>
+                            </div>
+                            <div class="pricing-card-bottom">
+                                <ul>
+                                    <li><i class="fa-regular fa-circle-check"></i>Course Discussions</li>
+                                    <li><i class="fa-regular fa-circle-check"></i>Content Library</li>
+                                    <li><i class="fa-regular fa-circle-check"></i>1-hour Mentorship</li>
+                                </ul>
+                                <button type="button" class="btn btn-primary">Get Started</button>
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-5 pricing-card2">
+                            <div class="pricing-card-top">
+                                <h4>Diamond</h4>
+                                <p>Perfect for small marketing teams</p>
+                                <h2>$99
+                                    <span>.99 / annually</span>
+                                </h2>
+                            </div>
+                            <div class="pricing-card-bottom">
+                                <ul>
+                                    <li><i class="fa-regular fa-circle-check"></i>Course Discussions</li>
+                                    <li><i class="fa-regular fa-circle-check"></i>Content Library</li>
+                                    <li><i class="fa-regular fa-circle-check"></i>1-hour Mentorship</li>
+                                    <li><i class="fa-regular fa-circle-check"></i>Online Course</li>
+                                </ul>
+                                <button type="button" class="btn btn-outline-light">Get Started</button>
+                            </div>
+                            <div class="best-value">
+                                <span>Best Value</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
